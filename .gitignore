@@ -55,3 +55,4 @@ fp-info-cache
 *.xls
 *.html
 ibom.config.ini
+.kiri/
