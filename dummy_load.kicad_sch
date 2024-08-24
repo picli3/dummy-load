@@ -7,7 +7,7 @@
 	(title_block
 		(title "Carga Electronica ")
 		(date "2023-11-26")
-		(rev "v1.0.0")
+		(rev "v1.0.1")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LM358"
