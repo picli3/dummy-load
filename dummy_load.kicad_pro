@@ -481,7 +481,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "v1.0.1/gerber/",
+      "plot": "v1.1.0/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -647,7 +647,7 @@
       "workbook_filename": "dummy_load.wbk"
     },
     "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/maykolrey.com.kicad_wks",
-    "plot_directory": "v1.0.0/",
+    "plot_directory": "v1.1.0/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
