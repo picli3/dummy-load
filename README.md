@@ -1,11 +1,11 @@
 # dummy-load
 
-Carga electrónica o dummy load para pruebas, útil para validar fuentes, convertidores o etapas de potencia bajo condiciones controladas.
+Carga electrónica o dummy load basada en **LM358** y MOSFET, pensada para probar fuentes de alimentación y convertidores bajo condiciones controladas.
+
+## Propósito del proyecto
+Este diseño permite aplicar una carga artificial a una fuente o etapa DC para evaluar regulación, calentamiento, respuesta y comportamiento general sin depender de una carga real fija.
 
 ## Qué incluye
-- esquemáticos o archivos de diseño en KiCad
-- PCB o documentación asociada
-- base reutilizable para análisis, fabricación o mejora del proyecto
-
-## Propósito general
-Este repositorio busca concentrar el diseño de hardware del proyecto en un formato editable y reutilizable, facilitando pruebas, documentación y futuras iteraciones del circuito.
+- esquemático de la carga electrónica
+- PCB en KiCad
+- base práctica para laboratorio, pruebas y validación de fuentes
